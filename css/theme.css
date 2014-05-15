@@ -145,11 +145,11 @@
 	background-image:none;
 	background-repeat:no-repeat;
 	background-size:cover;	
-	background: linear-gradient(top , rgb(165, 218, 88) 6% , rgb(0, 0, 0) 97% , rgb(0, 0, 0) 100%);
-background: -o-linear-gradient(top , rgb(165, 218, 88) 6% , rgb(0, 0, 0) 97% , rgb(0, 0, 0) 100%);
-background: -ms-linear-gradient(top , rgb(165, 218, 88) 6% , rgb(0, 0, 0) 97% , rgb(0, 0, 0) 100%);
-background: -moz-linear-gradient(top , rgb(165, 218, 88) 6% , rgb(0, 0, 0) 97% , rgb(0, 0, 0) 100%);
-background: -webkit-linear-gradient(top , rgb(165, 218, 88) 6% , rgb(0, 0, 0) 97% , rgb(0, 0, 0) 100%);
+	background: linear-gradient(top , rgb(84, 145, 216) 6% , rgb(170, 229, 49) 95% , rgb(0, 0, 0) 97% , rgb(0, 0, 0) 100%);
+background: -o-linear-gradient(top , rgb(84, 145, 216) 6% , rgb(170, 229, 49) 95% , rgb(0, 0, 0) 97% , rgb(0, 0, 0) 100%);
+background: -ms-linear-gradient(top , rgb(84, 145, 216) 6% , rgb(170, 229, 49) 95% , rgb(0, 0, 0) 97% , rgb(0, 0, 0) 100%);
+background: -moz-linear-gradient(top , rgb(84, 145, 216) 6% , rgb(170, 229, 49) 95% , rgb(0, 0, 0) 97% , rgb(0, 0, 0) 100%);
+background: -webkit-linear-gradient(top , rgb(84, 145, 216) 6% , rgb(170, 229, 49) 95% , rgb(0, 0, 0) 97% , rgb(0, 0, 0) 100%);
 }
 
 
